@@ -1,11 +1,5 @@
 <h1 align="center">Hey 👋, I'm Alexey Vlasov</h1>
-<h3 align="center">React Frontend Developer</h3>
-
-- 👨‍💻 All of my projects are available at [https://www.a-vlasov.ru/](https://www.a-vlasov.ru/)
-
-- 📫 How to reach me **sketchrhc@yandex.ru**
-
-- 📄 Know about my experiences [https://rostov.hh.ru/resume/15b432daff072b13510039ed1f746274647a39](https://rostov.hh.ru/resume/15b432daff072b13510039ed1f746274647a39)
+<h3 align="center">Frontend Developer</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
